@@ -1,0 +1,6 @@
+alunos=[{nome:'ana', nota:5, disciplina: 'port'}]
+if alunos[-1][:nota]>6
+  puts'Aprovado'
+else
+  puts('Reprovado')
+end

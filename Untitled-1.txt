@@ -1,0 +1,3 @@
+def nomeAlunas (nome):   
+     print ("Olá", nome)
+nomeAlunas ("Cat")
